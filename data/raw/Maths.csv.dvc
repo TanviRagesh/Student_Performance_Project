@@ -1,0 +1,5 @@
+outs:
+- md5: ba8b5b923fb28c1ebbb3ceca884907d5
+  size: 50669
+  hash: md5
+  path: Maths.csv
